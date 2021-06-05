@@ -1,6 +1,6 @@
 # Sup boss man im tatertot! 👋  
 
-Im a Developer for [`United Nations`]. I know multiple languges including HTML 5, CSS 3, JS, Node js, Discord.js, and SQLite.
+Im a Developer for [`United Nations`]. I know multiple languges including HTML 5, CSS 3, JS, Node js, Discord.js, Markdown, and SQLite.
 
 ## 📚 Experience
 
