@@ -27,7 +27,6 @@ And many, many more things you can see by exploring [`my repositories`]!
 
 ### 👀 Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatertot0002&layout=compact)](https://github.com/Tatertot0002/github-readme-stats)
 
 
 [`my repositories`]:     https://github.com/Tatertot0002?tab=repositories
