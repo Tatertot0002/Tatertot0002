@@ -4,8 +4,9 @@ Im a Developer for [`United Nations`]. I know multiple languges including HTML 5
 
 ## 📚 Experience
 
-Im a self taught Web Developer. 
-
+Ive coded a few discord bots in [`Discord.js`] 
+Also Coded many websites in HTML CSS and JS 
+ 
 
 ## 📫 How to get in contact
 
