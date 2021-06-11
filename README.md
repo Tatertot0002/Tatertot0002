@@ -15,8 +15,6 @@ Also Coded many websites in HTML CSS and JS
 
 ## 🔭 Projects
 
-I tend to pick up a lot of projects as time passes, mainly due to wanting to help others :sweat_smile:
-
 However, here's a quick run down of some of the projects I'm working on / some of the teams I'm working in:
 
 - 🤖 [`Outage Bot`] - a way to track your discord bots outages
