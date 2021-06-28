@@ -15,7 +15,7 @@ Also Coded many websites in HTML CSS and JS
 
 ## 🔭 Projects
 
-However, here's a quick run down of some of the projects I'm working on / some of the teams I'm working in:
+However, here's a quick run down of some of the projects I'm working on or ive finished:
 
 - 🤖 [`Outage Bot`] - a way to track your discord bots outages
 - 🤖 [`Peacekeeper`] - a easy to use moderation bot with music commands
